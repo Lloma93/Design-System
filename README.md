@@ -13,3 +13,13 @@ Confira a apresentação através desse link: https://www.behance.net/gallery/14
 #WIP // 
 
 Não deixe de olhar outros projetos aqui: https://www.behance.net/palloma-adolfi 
+
+
+-------------------------------
+
+# Atualização 
+
+Layout pelo figma: vantagens de reutilização e componentização dos tokens
+![image](https://user-images.githubusercontent.com/35180706/175787235-53180898-63d5-4058-b2c5-9d685458cdac.png)
+
+![screencast-nimbus-capture-2022 06 25-16_54_25](https://user-images.githubusercontent.com/35180706/175788882-4495ff3a-382b-4ef1-b0c9-8ff42aaa1efc.gif)
